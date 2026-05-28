@@ -1,4 +1,4 @@
-# Collaborative UAV-UGV Disaster Navigation Benchmarking Research
+# Collaborative UAV-UGV Disaster Navigation
 
 > CSC 591 (010): Software for Robots — Spring 2026
 > Pranav Bhagwat, Rachit Gupta, Rameez Malik
